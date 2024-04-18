@@ -4,7 +4,7 @@ import SaveEditor from "./components/SaveEditor.vue";
 
 <template>
   <div class="font-prompt p-20">
-    <h1 class="text-2xl text-center font-bold mx-auto">Palworld Save Editor</h1>
+    <h1 class="text-2xl text-center font-bold mx-auto">Palworld Server Config Editor</h1>
     <img
       alt="Vue logo"
       src="https://tech.palworldgame.com/img/logo.jpg"
