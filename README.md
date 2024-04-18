@@ -1,8 +1,36 @@
-# Vue 3 + Vite
+# Project Name
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Recommended IDE Setup
+## Description
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
-# palworld-serverconfig-editor
+A brief description of the project.
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Installation
+
+Instructions on how to install and set up the project.
+
+## Usage
+
+Instructions on how to use the project and any relevant examples.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+- [GitHub](https://github.com/your-username)
+- [Email](mailto:your-email@example.com)
